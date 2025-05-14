@@ -10,6 +10,8 @@
   "author": "undefined (Mateo Olarte)",
   "license": "MIT",
   "dependencies": {
+    "fastify": "^5.3.3",
+    "fastify-cli": "^7.4.0",
     "is-odd": "^3.0.1",
     "serve": "^14.2.4"
   }
