@@ -4,11 +4,13 @@
   "description": "nodejs examples",
   "main": "index.js",
   "scripts": {
+    "static": "serve -p 5050 static",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "undefined (Mateo Olarte)",
   "license": "MIT",
   "dependencies": {
-    "is-odd": "^3.0.1"
+    "is-odd": "^3.0.1",
+    "serve": "^14.2.4"
   }
 }
